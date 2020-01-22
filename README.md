@@ -47,7 +47,7 @@ Using QRLJacker - [QRLJacking Exploitation Framework](https://github.com/OWASP/Q
 
 ## Demo Video:
 Attacking WhatsApp Web Application and performing a MITM attack to inject a bogus ad including WhatsApp QR Code.
-[Demo Video](https://goo.gl/NLRdtZ)
+[Demo Video](https://www.youtube.com/watch?v=qdvygMyrlV0)
 
 
 ## Technical Paper
